@@ -1,1 +1,1 @@
-# core
+# @mesa-ui/core
